@@ -1,0 +1,4 @@
+crawl4ai
+langchain
+langchain-groq
+langchain-pinecone # downgrade that works with aiohttp >= 3.11
